@@ -1,3 +1,7 @@
+# Dataset
+
+
+
 Id,MSSubClass,MSZoning,LotArea,LotConfig,BldgType,OverallCond,YearBuilt,YearRemodAdd,Exterior1st,BsmtFinSF2,TotalBsmtSF,SalePrice
 0,60,RL,8450,Inside,1Fam,5,2003,2003,VinylSd,0,856,208500
 1,20,RL,9600,FR2,1Fam,8,1976,1976,MetalSd,0,1262,181500
